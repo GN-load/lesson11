@@ -1,0 +1,18 @@
+.img-car {
+    width: 600px;
+    height: 350px;
+}
+
+.flexButt {
+    display: flex;
+}
+
+.blackTheme {
+    background-color: black;
+    color: white;
+}
+
+.lightTheme {
+    background-color: white;
+    color: black;
+}
